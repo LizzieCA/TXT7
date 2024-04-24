@@ -1,0 +1,119 @@
+body {
+    background: #FCE4EC;
+}
+
+.cabecera {
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: left;
+    background-size: 1000px;
+    width: 100%;
+    height: 180px;
+    border: 1px solid #999999;
+    padding: 1px;
+    text-align: center;
+}
+
+p{
+    color: rgb(118, 70, 12);
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(49, 49, 143);
+}
+
+h2 {
+    text-align: center;
+    font-family: comic sans ms;
+    color: #1e58a9;
+}
+li img{
+    display: block;
+    margin: auto;
+    height: 240px;
+    width: 240px;
+    list-style-position: inside;
+}
+
+.articulo {
+    background-color: #dddddd;
+    width: 70%;
+    height: 100%;
+    border: 1px solid #999999;
+    padding-left: 30px;
+    padding-right: 15px;
+    display: inline-block;
+    font-size: 18px;
+    font-family: spectral;
+}
+
+.aparte {
+    width: 30%;
+    height: 1273px;
+    border: 1px solid #fff3f3;
+    background: #e5fbff;
+    float: left;
+}
+.footer {
+    float: none;
+    width: 100%;
+    height: 90px;
+    border: 1px solid #999999;
+    background: #e9ffeb;
+    color: #175dc5;
+    display: inline-block;
+    font-family: calibri;
+}
+
+.cuerpo {
+    display: flex;
+}
+h5{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #175dc5;
+    font-size: 30px;
+}
+
+#lista1{
+    text-align: right;
+    text-align-last: right;
+}
+#img1{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    display: block;
+}
+#IMG4{
+    width: 200px;
+    height: 240px;
+}
+#IMG5{
+    width: 320px;
+    height: 200px;
+}
+h3{
+    list-style-position: inside;
+    text-align: left;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#lista1{
+    text-align: right;
+    list-style-position: inside;
+    color: #8c0991;
+}
+#video{
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+#video2{
+    width: 400px;
+    height: 280px;
+    float:right ;
+}
